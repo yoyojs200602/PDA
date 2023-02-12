@@ -1,0 +1,13 @@
+Outline: 100 100
+NumBlocks: 6                                                                   
+NumTerminals: 0
+
+a1 4 2
+a2 8 4
+a3 7 9
+a4 3 4
+a5 4 6
+a6 4 2
+
+"${workspaceFolder}/testcase/toy/toy.block",
+"${workspaceFolder}/testcase/toy/toy.nets",
