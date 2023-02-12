@@ -1,0 +1,10 @@
+DieSize 30 30
+DieRows 10 3
+Terminal 2
+T0 0 0 2 2
+T1 20 10 2 2
+NumCell 4
+C0 0 3 10 10
+C1 10 3 10 10
+C2 0 0 20 10
+C3 5 5 10 10
