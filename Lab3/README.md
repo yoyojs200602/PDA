@@ -4,8 +4,11 @@
     ./Lab3 [input] [output]  
 
 * case3  
-  * bottom
+  * initial chip  
+![image](https://github.com/yoyojs200602/PDA/blob/main/Lab3/pic/output_pic_initial.png)  
+
+  * bottom chip  
 ![image](https://github.com/yoyojs200602/PDA/blob/main/Lab3/pic/output_pic_bottom.png)
 
-  * top  
+  * top chip  
 ![image](https://github.com/yoyojs200602/PDA/blob/main/Lab3/pic/output_pic_top.png)
